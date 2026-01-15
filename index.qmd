@@ -1,11 +1,17 @@
 ---
-title: "pages"
+title: "Hi, I’m Heng Hui"
+subtitle: "Applied Computing (Fintech), SIT"
+format: html
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m **Ong Heng Hui**, a **student** interested in **Sports**, **Programming**, and **Cats**.
 
-```{r}
-1 + 1
-```
+<img src="imgs/cats1.jpg" width="50%" height="50%"/>
+
+Here is my linkedin: <https://www.linkedin.com/in/hengoui03/.>
+
+---
+**Goal:** I would like to graduate with good grades
+

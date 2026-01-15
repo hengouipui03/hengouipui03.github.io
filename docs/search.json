@@ -2,8 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pages",
+    "title": "Hi, I’m Heng Hui",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my linkedin: https://www.linkedin.com/in/hengoui03/.\n\nGoal: I would like to graduate with good grades"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Hi, I’m Heng Hui",
+    "section": "",
+    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my linkedin: https://www.linkedin.com/in/hengoui03/.\n\nGoal: I would like to graduate with good grades"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Hi, I’m Heng Hui",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\n📌 Projects — things I’ve built (code + demos)\n🧠 Notes / Blog — what I’m learning and reflections\n📄 Resume — skills, experience, and achievements\n📬 Contact — how to reach me"
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Hi, I’m Heng Hui",
+    "section": "Featured Project",
+    "text": "Featured Project\n\n⭐ [Project Name]\nGoal: [1 sentence describing what it does]\nTech used: [R / Python / Quarto / HTML / CSS / GitHub]\nView project →"
+  },
+  {
+    "objectID": "index.html#about-me-short",
+    "href": "index.html#about-me-short",
+    "title": "Hi, I’m Heng Hui",
+    "section": "About me (short)",
+    "text": "About me (short)\nOutside of work/school, I enjoy [hobby 1], [hobby 2], and [hobby 3].\nIf you’d like to connect, feel free to reach out via [email] or [LinkedIn/GitHub]."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Goal: This project was used for onboarding at Sembcorp. I created an interactive educational game.\nTech used: C#, Unity\nView project →"
+  },
+  {
+    "objectID": "about.html#featured-project",
+    "href": "about.html#featured-project",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Goal: This project was used for onboarding at Sembcorp. I created an interactive educational game.\nTech used: C#, Unity\nView project →"
   }
 ]

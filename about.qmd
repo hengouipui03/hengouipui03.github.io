@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "FYP Project"
+format: html
 ---
 
-About this site
+## Featured Project
 
-```{r}
-1 + 1
-```
+### Fire Escape
+
+**Goal:** This project was used for onboarding at Sembcorp. I created an interactive educational game.
+
+**Tech used:** C#, Unity
+
+[View project →](https://github.com/hengouipui03/Fire-Escape-Game)
