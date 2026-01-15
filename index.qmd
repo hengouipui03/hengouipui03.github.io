@@ -8,10 +8,12 @@ format: html
 
 I’m **Ong Heng Hui**, a **student** interested in **Sports**, **Programming**, and **Cats**.
 
-<img src="imgs/cats1.jpg" width="50%" height="50%"/>
+![](imgs/cats1.jpg){width=50%}
 
-Here is my linkedin: <https://www.linkedin.com/in/hengoui03/.>
+Here is my LinkedIn: <https://www.linkedin.com/in/hengoui03/>
 
 ---
-**Goal:** I would like to graduate with good grades
+
+## Goal
+I would like to graduate with good grades.
 

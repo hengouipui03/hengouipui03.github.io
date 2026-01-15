@@ -1,0 +1,29 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+## GenAI tool used
+I used **ChatGPT** to help me complete this assessment.
+
+## How it helped me
+ChatGPT helped me mainly with:
+- fixing Quarto formatting issues (YAML and headings)
+- setting up GitHub Pages correctly (rendering output to `docs/`)
+- writing simple content for my website pages
+
+For example, it helped me understand why my `.qmd` pages were not rendering properly and how to format them correctly.
+
+## Benefits
+- Saves time when I get stuck
+- Gives clear explanations and examples
+- Helps with writing and structuring content
+
+## Challenges
+- I still need to check and test the output myself
+- Sometimes the suggestions only work after adjusting them to my own project
+
+## What I learned
+I learned that GenAI is useful as a guide, but I should still understand the steps instead of copying blindly.
+
+> Overall, GenAI made building my website faster and less stressful.

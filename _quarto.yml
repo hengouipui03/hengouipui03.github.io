@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "temp_website"
   favicon: favicon.png
@@ -10,7 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: FYP Project
+      - href: data-visualization.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
@@ -19,6 +24,7 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
+
 
 
 

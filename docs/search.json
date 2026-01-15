@@ -4,35 +4,21 @@
     "href": "index.html",
     "title": "Hi, I’m Heng Hui",
     "section": "",
-    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my linkedin: https://www.linkedin.com/in/hengoui03/.\n\nGoal: I would like to graduate with good grades"
+    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my LinkedIn: https://www.linkedin.com/in/hengoui03/"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Hi, I’m Heng Hui",
     "section": "",
-    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my linkedin: https://www.linkedin.com/in/hengoui03/.\n\nGoal: I would like to graduate with good grades"
+    "text": "I’m Ong Heng Hui, a student interested in Sports, Programming, and Cats.\n\nHere is my LinkedIn: https://www.linkedin.com/in/hengoui03/"
   },
   {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
     "title": "Hi, I’m Heng Hui",
-    "section": "What you’ll find here",
-    "text": "What you’ll find here\n\n📌 Projects — things I’ve built (code + demos)\n🧠 Notes / Blog — what I’m learning and reflections\n📄 Resume — skills, experience, and achievements\n📬 Contact — how to reach me"
-  },
-  {
-    "objectID": "index.html#featured-project",
-    "href": "index.html#featured-project",
-    "title": "Hi, I’m Heng Hui",
-    "section": "Featured Project",
-    "text": "Featured Project\n\n⭐ [Project Name]\nGoal: [1 sentence describing what it does]\nTech used: [R / Python / Quarto / HTML / CSS / GitHub]\nView project →"
-  },
-  {
-    "objectID": "index.html#about-me-short",
-    "href": "index.html#about-me-short",
-    "title": "Hi, I’m Heng Hui",
-    "section": "About me (short)",
-    "text": "About me (short)\nOutside of work/school, I enjoy [hobby 1], [hobby 2], and [hobby 3].\nIf you’d like to connect, feel free to reach out via [email] or [LinkedIn/GitHub]."
+    "section": "Goal",
+    "text": "Goal\nI would like to graduate with good grades."
   },
   {
     "objectID": "about.html",
@@ -47,5 +33,82 @@
     "title": "FYP Project",
     "section": "",
     "text": "Goal: This project was used for onboarding at Sembcorp. I created an interactive educational game.\nTech used: C#, Unity\nView project →"
+  },
+  {
+    "objectID": "data-visualization.html",
+    "href": "data-visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my student life, I tracked the number of hours I studied in a week.\nThe graph below visualises my study hours from Monday to Sunday.\n\n\n\nX-axis: Day of the week\nY-axis: Study hours (in hours)\n\n\n\n\nI created this chart because I wanted to understand my study habits.\nIt helped me see which days I studied the most and which days I studied the least.\nFrom the results, I realised I studied much less on weekends, so I adjusted my schedule.\n\n\n\nI used a bar chart because it is easy to compare numerical values across categories (days of the week)."
+  },
+  {
+    "objectID": "data-visualization.html#visualization-work",
+    "href": "data-visualization.html#visualization-work",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my student life, I tracked the amount of time I spent studying across a week and visualised it using a bar chart.\n\n\n\nX-axis: Day of the week\nY-axis: Study hours (hours)\n\n\n\n\nI chose a bar chart because it is the clearest way to compare values across categories (days). It helps me quickly see which day I studied the most and which day I studied the least.\n\n\n\nThis visualization was created when I wanted to improve my study habits and time management. By looking at the chart, I realised I studied much more on weekdays than weekends, so I adjusted my schedule to make weekend studying more consistent."
+  },
+  {
+    "objectID": "data-visualization.html#code-quarto-r",
+    "href": "data-visualization.html#code-quarto-r",
+    "title": "Data Visualization",
+    "section": "Code (Quarto / R)",
+    "text": "Code (Quarto / R)\ndays &lt;- c(“Mon”,“Tue”,“Wed”,“Thu”,“Fri”,“Sat”,“Sun”) hours &lt;- c(2, 3, 1, 4, 2, 1, 0)\nbarplot(hours, names.arg = days, xlab = “Day”, ylab = “Study hours”)"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me complete this assessment."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used",
+    "href": "reflection.html#genai-tool-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me complete this assessment."
+  },
+  {
+    "objectID": "reflection.html#how-it-helped-me",
+    "href": "reflection.html#how-it-helped-me",
+    "title": "Reflection on the use of GenAI",
+    "section": "How it helped me",
+    "text": "How it helped me\nChatGPT helped me mainly with: - fixing Quarto formatting issues (YAML and headings) - setting up GitHub Pages correctly (rendering output to docs/) - writing simple content for my website pages\nFor example, it helped me understand why my .qmd pages were not rendering properly and how to format them correctly."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits",
+    "text": "Benefits\n\nSaves time when I get stuck\nGives clear explanations and examples\nHelps with writing and structuring content"
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges",
+    "text": "Challenges\n\nI still need to check and test the output myself\nSometimes the suggestions only work after adjusting them to my own project"
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection on the use of GenAI",
+    "section": "What I learned",
+    "text": "What I learned\nI learned that GenAI is useful as a guide, but I should still understand the steps instead of copying blindly.\n\nOverall, GenAI made building my website faster and less stressful."
+  },
+  {
+    "objectID": "data-visualization.html#my-visualization",
+    "href": "data-visualization.html#my-visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my student life, I tracked the number of hours I studied in a week.\nThe graph below visualises my study hours from Monday to Sunday.\n\n\n\nX-axis: Day of the week\nY-axis: Study hours (in hours)\n\n\n\n\nI created this chart because I wanted to understand my study habits.\nIt helped me see which days I studied the most and which days I studied the least.\nFrom the results, I realised I studied much less on weekends, so I adjusted my schedule.\n\n\n\nI used a bar chart because it is easy to compare numerical values across categories (days of the week)."
+  },
+  {
+    "objectID": "data-visualization.html#graph-r",
+    "href": "data-visualization.html#graph-r",
+    "title": "Data Visualization",
+    "section": "Graph (R)",
+    "text": "Graph (R)"
   }
 ]

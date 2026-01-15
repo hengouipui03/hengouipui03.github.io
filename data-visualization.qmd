@@ -1,0 +1,26 @@
+---
+title: "Data Visualization"
+format: html
+---
+
+## My visualization
+
+During my student life, I tracked the number of hours I studied in a week.  
+The graph below visualises my study hours from Monday to Sunday.
+
+### What was visualised
+- **X-axis:** Day of the week
+- **Y-axis:** Study hours (in hours)
+
+### Story behind this task
+I created this chart because I wanted to understand my study habits.  
+It helped me see which days I studied the most and which days I studied the least.  
+From the results, I realised I studied much less on weekends, so I adjusted my schedule.
+
+### Why I chose this visualization
+I used a **bar chart** because it is easy to compare numerical values across categories (days of the week).
+
+---
+
+## Graph (R)
+<img src="imgs/barchart.png" width="100%" height="100%"/>

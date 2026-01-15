@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hi, I’m Heng Hui – temp_website</title>
+<title>Data Visualization – temp_website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -96,12 +96,20 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">FYP Project</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./data-visualization.html" aria-current="page"> 
+<span class="menu-text">Data Visualization</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./reflection.html"> 
+<span class="menu-text">Reflection</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -118,8 +126,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
-  <li><a href="#goal" id="toc-goal" class="nav-link" data-scroll-target="#goal">Goal</a></li>
+  <li><a href="#my-visualization" id="toc-my-visualization" class="nav-link active" data-scroll-target="#my-visualization">My visualization</a>
+  <ul class="collapse">
+  <li><a href="#what-was-visualised" id="toc-what-was-visualised" class="nav-link" data-scroll-target="#what-was-visualised">What was visualised</a></li>
+  <li><a href="#story-behind-this-task" id="toc-story-behind-this-task" class="nav-link" data-scroll-target="#story-behind-this-task">Story behind this task</a></li>
+  <li><a href="#why-i-chose-this-visualization" id="toc-why-i-chose-this-visualization" class="nav-link" data-scroll-target="#why-i-chose-this-visualization">Why I chose this visualization</a></li>
+  </ul></li>
+  <li><a href="#graph-r" id="toc-graph-r" class="nav-link" data-scroll-target="#graph-r">Graph (R)</a></li>
   </ul>
 </nav>
 </nav>
@@ -132,8 +145,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hi, I’m Heng Hui</h1>
-<p class="subtitle lead">Applied Computing (Fintech), SIT</p>
+<h1 class="title">Data Visualization</h1>
 </div>
 
 
@@ -150,16 +162,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>I’m <strong>Ong Heng Hui</strong>, a <strong>student</strong> interested in <strong>Sports</strong>, <strong>Programming</strong>, and <strong>Cats</strong>.</p>
-<p><img src="imgs/cats1.jpg" class="img-fluid" style="width:50.0%"></p>
-<p>Here is my LinkedIn: <a href="https://www.linkedin.com/in/hengoui03/" class="uri">https://www.linkedin.com/in/hengoui03/</a></p>
+<section id="my-visualization" class="level2">
+<h2 class="anchored" data-anchor-id="my-visualization">My visualization</h2>
+<p>During my student life, I tracked the number of hours I studied in a week.<br>
+The graph below visualises my study hours from Monday to Sunday.</p>
+<section id="what-was-visualised" class="level3">
+<h3 class="anchored" data-anchor-id="what-was-visualised">What was visualised</h3>
+<ul>
+<li><strong>X-axis:</strong> Day of the week</li>
+<li><strong>Y-axis:</strong> Study hours (in hours)</li>
+</ul>
+</section>
+<section id="story-behind-this-task" class="level3">
+<h3 class="anchored" data-anchor-id="story-behind-this-task">Story behind this task</h3>
+<p>I created this chart because I wanted to understand my study habits.<br>
+It helped me see which days I studied the most and which days I studied the least.<br>
+From the results, I realised I studied much less on weekends, so I adjusted my schedule.</p>
+</section>
+<section id="why-i-chose-this-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="why-i-chose-this-visualization">Why I chose this visualization</h3>
+<p>I used a <strong>bar chart</strong> because it is easy to compare numerical values across categories (days of the week).</p>
 <hr>
 </section>
-<section id="goal" class="level2">
-<h2 class="anchored" data-anchor-id="goal">Goal</h2>
-<p>I would like to graduate with good grades.</p>
+</section>
+<section id="graph-r" class="level2">
+<h2 class="anchored" data-anchor-id="graph-r">Graph (R)</h2>
+<p><img src="imgs/barchart.png" width="100%" height="100%"></p>
 
 
 </section>
